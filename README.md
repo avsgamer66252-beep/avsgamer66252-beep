@@ -4,7 +4,7 @@
 
 **Discord Developer • Minecraft Server Developer • Always Learning**
 
-![Discord](https://img.shields.io/badge/DISCORD-YourDiscordName-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/DISCORD-arjun038313-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/MINECRAFT-Server%20Dev-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Status](https://img.shields.io/badge/DMs-Open%20for%20Collabs-22C55E?style=for-the-badge)
 
