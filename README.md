@@ -19,12 +19,12 @@ developer:
   name        : AVS Gamer
   focus       : Discord bots & Minecraft servers
   level       : Learning, building and improving every day
-  location    : India
+  location    : India,himachal pradesh
 
 currently_working_on:
   - My first Discord bot
   - Minecraft server setup and plugins
-  - Learning Git and GitHub properly
+  - Learning codin
 
 status:
   availability : Open for collaborations
