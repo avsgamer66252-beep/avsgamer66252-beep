@@ -1,27 +1,72 @@
-# 👋 Hey, I'm AVSGAMER
+<div align="center">
 
-🎮 Discord bot developer | ⛏️ Minecraft server developer
-🌱 Currently learning to code and getting better every day
+# AVS GAMER
 
-## 🔧 What I work on
-- Discord bots
-- Minecraft server plugins and setups
-- Small projects to practice and learn new skills
+**Discord Developer • Minecraft Server Developer • Always Learning**
 
-## 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Discord](https://img.shields.io/badge/DISCORD-YourDiscordName-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Minecraft](https://img.shields.io/badge/MINECRAFT-Server%20Dev-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Status](https://img.shields.io/badge/DMs-Open%20for%20Collabs-22C55E?style=for-the-badge)
 
-## 📚 Currently learning
-- Improving my Python / JavaScript / Java skills
-- Writing cleaner code and using Git properly
+</div>
 
-## 🤝 Let's collaborate!
-My DMs are open for collaborations, project ideas, and questions.
-Feel free to reach out on Discord: arjun038313
+---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+## 👤 About me
+
+```yaml
+developer:
+  name        : AVS Gamer
+  focus       : Discord bots & Minecraft servers
+  level       : Learning, building and improving every day
+  location    : India
+
+currently_working_on:
+  - My first Discord bot
+  - Minecraft server setup and plugins
+  - Learning Git and GitHub properly
+
+status:
+  availability : Open for collaborations
+  contact      : DM me on Discord
+```
+
+---
+
+## 🛠️ Tech I use / learn
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python,js,java,git,github,discord,vscode)
+
+</div>
+
+*(Delete any icons for things you don't use. Other options: `html,css,nodejs,mysql,linux`)*
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **My Discord Bot** | Moderation + fun commands (in progress) | Python / discord.py |
+| **Minecraft Server** | Custom survival server setup | Java / Paper / Spigot |
+| **More coming...** | Learning and building | 🌱 |
+
+---
+
+## 🤝 Let's collaborate
+
+I'm open to teaming up on Discord bots, Minecraft servers, and learning projects. Beginners welcome too!
+
+📩 **Discord:** `YourDiscordName`
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=avsgamer66252-beep&show_icons=true&theme=tokyonight&hide_border=true)
+
+*Learning in public ✨*
+
+</div>
